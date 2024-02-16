@@ -1,0 +1,95 @@
+EXERCÍCIOS DE VARIÁVEIS E TIPOS DE DADOS
+1. escreva um programa que declare e inicialize diferentes tipos de variáveis (int, float,
+double, char) e exiba seus valores.
+2. faça um programa que converta uma temperatura de Celsius para Fahrenheit.
+3. calcule a área de um círculo dado o raio (use constantes para PI).
+EXERCÍCIOS DE ESTRUTURAS DE CONTROLE
+1. escreva um programa que verifique se um número é par ou ímpar.
+2. implemente um programa que leia três números e exiba o maior deles.
+3. escreva um programa que imprima os números de 1 a 100, substituindo os múltiplos de 3 por
+"Engenheiro ", os múltiplos de 5 por " Salvador Arena." e os múltiplos de ambos por "Engenheiro
+Salvador Arena".
+
+
+EXERCÍCIOS DE ESTRUTURAS DE REPETIÇÃO
+1. escreva um programa que imprima os primeiros n números primos.
+2. implemente um programa que calcule o fatorial de um número.
+3. crie um programa que calcule a soma dos números pares de 1 a n.
+EXERCÍCIOS DE ARRAYS E DE STRINGS
+1. escreva um programa que ordene um array de inteiros em ordem crescente.
+2. implemente um programa que conte o número de vogais em uma string.
+3. faça um programa que concatene duas strings sem usar funções prontas de
+concatenação.
+
+EXERCÍCIOS DE FUNÇÕES
+1. escreva uma função para calcular o máximo entre dois números.
+2. implemente uma função recursiva para calcular o n-ésimo termo da sequência de
+Fibonacci.
+3. crie uma função que verifique se uma string é um palíndromo.
+EXERCÍCIOS DE MANIPULAÇÃO DE ARQUIVOS
+1. escreva um programa que leia dados de um arquivo de texto e os exiba na tela.
+2. implemente um programa que conte o número de palavras em um arquivo de texto.
+3. crie um programa que escreva dados em um arquivo binário e depois leia e exiba esses
+dados.
+
+EXERCÍCIO EXTRA 1
+Crie um vetor denominado precos_commodities com preços fictícios para pelo menos 5
+commodities, por exemplo, petróleo, ouro, prata, trigo e café.
+a. encontre o preço máximo e mínimo no vetor.
+b. calcule a média de preços das commodities.
+
+EXERCÍCIO EXTRA 2
+Crie e analise uma série temporal de dados econômicos.
+a. crie um vetor denominado taxa_juros representando a taxa de juros de um país ao
+longo de 12 meses.
+b. determine o mês com a taxa de juros mais alta e mais baixa.
+c. calcule a variação percentual da taxa de juros de mês para mês.
+
+EXERCÍCIO EXTRA 3
+Crie um vetor denominado dados_economicos, sendo que cada objeto deverá ser um país
+com as respectivas informações de nome, PIB, taxa de inflação e taxa de desemprego.
+a. escreva uma função para encontrar o país com o maior PIB.
+b. escreva uma função para calcular a média de inflação entre os países.
+
+EXERCÍCIO EXTRA 4
+Crie um vetor denominado relatorios, sendo que cada posição deverá representar um
+relatório econômico de um trimestre, contendo informações como PIB, exportações e
+importações.
+a. calcule o crescimento do PIB trimestral.
+b. gere um sumário que apresente a média das exportações e importações no ano.
+
+EXERCÍCIO EXTRA 5
+Crie um vetor denominado mercado_acoes, sendo que cada posição deverá conter um objeto
+com o nome de uma empresa, preço da ação, volume negociado e capitalização de mercado.
+a. escreva um código para listar as empresas com capitalização de mercado acima de um
+certo valor.
+
+EXERCÍCIO EXTRA 6
+Elabore uma função para analisar uma carteira de investimentos. A carteira é representada
+por um vetor com os nomes dos ativos, os valores do preço de compra, quantidade e preço
+atual do ativo.
+a. calcule o valor total investido e o valor total atual da carteira.
+b. determine o retorno total em percentual.
+
+EXERCÍCIO EXTRA 7
+Implemente uma função para calcular a média móvel de demanda de um produto. Dados de
+demanda mensal estão em uma lista. A média móvel deve ser calculada para um período
+definido pelo usuário, por exemplo, 3 meses.
+a. calcule a média móvel para o período escolhido.
+b. gere um novo vetor com os valores da média móvel.
+
+EXERCÍCIO EXTRA 8
+Elabore uma função que analise a variação cambial de uma moeda em relação a outra. A
+função deverá receber dois vetores, sendo um com os valores históricos da moeda base e
+outro com valores da moeda de comparação, ambas no mesmo período.
+a. calcule a variação percentual diária.
+b. identifique os dias com maior e menor variação.
+
+EXERCÍCIO EXTRA 9
+Elabore uma função para calcular o ponto de equilíbrio de um produto. A função deve receber
+o custo fixo total, o preço de venda por unidade e o custo variável por unidade.
+a. calcule quantas unidades precisam ser vendidas para atingir o ponto de equilíbrio.
+
+EXERCÍCIO EXTRA 10
+Elabore um software de conversão que realize mudança entre bases numéricas.
+a. realize mudança de base entre 2 e 10.
